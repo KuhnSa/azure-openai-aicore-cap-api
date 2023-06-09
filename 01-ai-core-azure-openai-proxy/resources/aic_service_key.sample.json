@@ -1,11 +1,11 @@
 {
-  "clientid": "",
-  "clientsecret": "",
-  "url": "",
-  "identityzone": "",
-  "identityzoneid": "",
-  "appname": "",
+  "clientid": "sb-6f0752a3-4c26-4591-bfff-8bf30309fd41!b192058|aicore!b540",
+  "clientsecret": "fe3e2007-64ec-437e-8d6e-14beaf8a532b$P7HAD5OvI8dzqlUrSduMo8BDWIbopQC-sQ3ZES3q6uY=",
+  "url": "https://agilitaessandboxai.authentication.eu10.hana.ondemand.com",
+  "identityzone": "agilitaessandboxai",
+  "identityzoneid": "f9a20f97-85f0-4e19-b9e7-c2fa39ff4643",
+  "appname": "6f0752a3-4c26-4591-bfff-8bf30309fd41!b192058|aicore!b540",
   "serviceurls": {
-    "AI_API_URL": ""
+    "AI_API_URL": "https://api.ai.prod.eu-central-1.aws.ml.hana.ondemand.com"
   }
 }
