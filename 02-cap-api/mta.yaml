@@ -56,6 +56,6 @@ resources:
                 ProxyType: Internet
                 Authentication: OAuth2ClientCredentials
                 tokenServiceURL: https://sceaiml.authentication.eu10.hana.ondemand.com/oauth/token # your token service url of the SAP AI Core instance
-                clientId: DUMMY_ID # enter in cockpit
-                clientSecret: DUMMY_SECRET # enter in cockpit
+                clientId: sb-6c6d653f-abeb-43fb-bf37-6ec2fd0be176!b192058|aicore!b540 # enter in cockpit DUMMY_ID
+                clientSecret: cddc1ca1-a165-476e-8505-5878692b80e2$9R8F82Pp89cf0FC466hKAiJddjyEbM7xazOEGKlj70M= # enter in cockpit DUMMY_SECRET
                 HTML5.DynamicDestination: true

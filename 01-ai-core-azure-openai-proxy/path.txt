@@ -1,0 +1,1 @@
+export PATH="$PATH:/Applications/Docker.app/contents/Resources/bin/"
