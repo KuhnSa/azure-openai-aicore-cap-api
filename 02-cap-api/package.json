@@ -66,7 +66,7 @@
                 "kind": "rest",
                 "credentials": {
                     "destination": "openai-aicore-api",
-                    "path": "/v2/inference/deployments/<YOUR_AICORE_DEPLOYMENT_ID>"
+                    "path": "/v2/inference/deployments/<d1b70a938b8919d8>"
                 }
             }
         }
