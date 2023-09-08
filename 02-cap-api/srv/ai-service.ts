@@ -2,7 +2,7 @@ import { ApplicationService } from "@sap/cds";
 import { Request } from "@sap/cds/apis/services";
 
 // PARAMETERS FOR AZURE OPENAI SERVICES CHAT COMPLETION API
-const ENGINE = "YOUR_ENGINE_OF_AZURE_OPENAI_SERVICES"; // DEPLOYMENT ID FOR GPT-3.5-TURBO
+const ENGINE = "ai-for-proxy"; // DEPLOYMENT ID FOR GPT-3.5-TURBO
 const MAX_TOKENS = 500;
 const TEMPERATURE = 0.8;
 const FREQUENCY_PENALTY = 0;
